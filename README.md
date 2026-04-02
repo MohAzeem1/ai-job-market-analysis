@@ -103,7 +103,8 @@ We used 5-fold cross-validation:
 * Model is **stable**
 * No major overfitting
 * Performs consistently across different data splits
-
+## 🌐 Live Demo  
+### 🔗 https://moh-azeem-ai-job-market-analysis.streamlit.app/
 ---
 
 ## 🔥 Feature Importance (Key Insight)
